@@ -5,6 +5,7 @@
 
 [![linkedin badge](https://img.shields.io/badge/brianliu7828-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/brianliu7828/)
 [![Gmail Badge](https://img.shields.io/badge/samleoqh@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:samleoqh@gmail.com)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://scholar.google.com/citations?user=RRXDrzsAAAAJ&hl=en)
 <img src="https://komarev.com/ghpvc/?username=samleoqh&style=plastic" />
 
 I'm a research scientist at Oslo universitetssykehus CRAI group, and am working on the development of deep learning algorithms for medical image analysis. <br>
