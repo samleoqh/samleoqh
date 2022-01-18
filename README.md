@@ -9,23 +9,8 @@
 <img src="https://komarev.com/ghpvc/?username=samleoqh&style=plastic" />
 
 
+I'm a Research Scientist at Oslo University Hospital ([OUS](https://oslo-universitetssykehus.no/oslo-university-hospital)) [CRAI group](https://www.crai.no), and am working on the development of deep learning algorithms for medical image analysis. I hold a PhD from [UiT machine learning group](https://machine-learning.uit.no/) and [Norwegian Computing Center](https://www.nr.no). My research interests center around supervised/semi-supervised/self-supervised machine learning methods for computer vision and multi-modal data.<br>
 
-I'm a Research Scientist at Oslo University Hospital ([OUS](https://oslo-universitetssykehus.no/oslo-university-hospital)) [CRAI group](www.crai.no), and am working on the development of deep learning algorithms for medical image analysis. I hold a PhD from [UiT machine learning group](https://machine-learning.uit.no/) and [Norwegian Computing Center](www.nr.no). My research interests center around supervised/semi-supervised/self-supervised machine learning methods for computer vision and multi-modal data.<br>
-
-<!--
-- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
-- 
-
-![](https://github-readme-stats.vercel.app/api?username=samleoqh)
-![github graph](https://activity-graph.herokuapp.com/graph?username=samleoqh&theme=react-dark)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/samleoqh)
-
-
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=samleoqh&theme=dark&hide_border=false" width = 500>
-<img src = "https://github-readme-stats.vercel.app/api?username=samleoqh&show_icons=true&theme=dark" width = 500>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samleoqh&theme=dark)](https://github.com/samleoqh/github-readme-stats)
--->
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/samleoqh?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
